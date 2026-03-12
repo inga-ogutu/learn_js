@@ -18,9 +18,10 @@ const names = []
 names.push("james")
 names.push("mark")
 names.push("inga")
+names.push("shadrack")
 
 names.pop()
-names.sh
+
 
 
 // for(i = 0; i<=names.length; i++){
